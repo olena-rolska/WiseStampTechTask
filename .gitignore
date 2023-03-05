@@ -23,6 +23,7 @@ Thumbs.db
 cypress/videos
 cypress/screenshots
 cypress/mochawesome-report
+mochawesome-report
 cypress/results
 
 notes
