@@ -47,4 +47,7 @@ describe("Edit an app", () => {
   it("Check application after edit", () => {
     cy.checkAnApp();
   });
+  after("Clean up test data", () => {
+    cy.get(".addon__remove", { timeout: 10000 }).click({ force: true });
+  });
 });
