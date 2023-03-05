@@ -1,0 +1,19 @@
+{
+  "name": "wisestamp",
+  "version": "1.0.0",
+  "description": "Technical task",
+  "main": "cypress.config.js",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmiyuchkaa/WiseStampTechTask.git"
+  },
+  "author": "Olena Rolska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zmiyuchkaa/WiseStampTechTask/issues"
+  },
+  "homepage": "https://github.com/Zmiyuchkaa/WiseStampTechTask#readme"
+}
